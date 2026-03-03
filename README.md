@@ -66,5 +66,5 @@ Atualmente sigo evoluindo na área de tecnologia, buscando crescimento profissio
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (adicione aqui)
-- 📧 Email: (adicione aqui)
+- 💼 LinkedIn: [Gustavo Ariosi](https://www.linkedin.com/in/gustavo-ariosi-a4957326b/)
+- 📧 Email: (GustavoTaquiwi@gmail.com)
