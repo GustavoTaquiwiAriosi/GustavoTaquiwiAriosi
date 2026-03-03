@@ -106,4 +106,9 @@ Atualmente, sigo aprimorando meus conhecimentos na área de tecnologia, buscando
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<p align="left">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=GustavoTaquiwiAriosi&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTaquiwiAriosi&layout=compact&theme=tokyonight" />
+</p>
