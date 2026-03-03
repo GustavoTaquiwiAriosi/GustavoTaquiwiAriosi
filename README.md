@@ -1,27 +1,29 @@
-# 👨🏻‍💻 Gustavo Ariosi  
+# 👨🏻‍💻 Gustavo Ariosi
 
-**Desenvolvedor Full-Stack**
+**Desenvolvedor FullStack**
 
-Sou desenvolvedor Full-Stack formado em Análise e Desenvolvimento de Sistemas.  
-Tenho experiência prática com desenvolvimento de aplicações web e mobile, integração de APIs e modelagem de banco de dados relacional.
+Sou Gustavo Taquiwi Ariosi, 20 anos, natural do Paraná.  
+Formado em **Análise e Desenvolvimento de Sistemas** pela Univale Ivaiporã, com base sólida em programação, lógica e desenvolvimento de software.
 
-Busco oportunidades para atuar como Desenvolvedor Full-Stack, contribuindo com soluções eficientes, bem estruturadas e escaláveis.
+Atualmente sigo evoluindo na área de tecnologia, buscando crescimento profissional e novos desafios.
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Linguagens e Tecnologias
 
-### 🖥️ Front-End
-HTML • CSS • JavaScript • TypeScript • React • React Native • Tailwind • Bootstrap
-
-### ⚙️ Back-End
-Java 17 • Maven • Node.js • APIs REST
-
-### 🗄️ Banco de Dados
-PostgreSQL
-
-### 🔧 Ferramentas
-Git • GitHub • Expo
+<p align="left">
+<img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
 ---
 
@@ -30,22 +32,15 @@ Git • GitHub • Expo
 <p align="left">
   <img height="170"
        src="https://stats-github-readme.vercel.app/api?username=GustavoTaquiwiAriosi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+## 💻 Linguagens Mais Utilizadas
+
+</p>       
   <img height="170"
        src="https://stats-github-readme.vercel.app/api/top-langs/?username=GustavoTaquiwiAriosi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="left">
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=GustavoTaquiwiAriosi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
 <p align="left">
   <a href="https://github.com/srduardo/PROJETO-OUVINTE">
@@ -56,21 +51,23 @@ Git • GitHub • Expo
 
 ### 📍 Ouvinte App (Projeto de TCC)
 
-Aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC), focado em melhorar a comunicação entre cidadãos e a ouvidoria municipal.
+Aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC), com foco em melhorar a comunicação entre cidadãos e a ouvidoria municipal.
 
-Permite registrar denúncias urbanas diretamente em um mapa interativo, promovendo gestão pública mais eficiente e participativa.
+A aplicação permite que usuários registrem denúncias sobre problemas urbanos (buracos, falhas elétricas, entulho, entre outros) diretamente em um mapa interativo, promovendo uma gestão urbana mais eficiente e participativa.
 
 👨🏻‍💻 Minha atuação:
-- Desenvolvimento Full-Stack
-- Integração entre API (Java) e aplicação mobile
-- Modelagem e estruturação do banco de dados PostgreSQL
-- Organização da arquitetura do projeto
 
-🛠 Tecnologias:
-Java 17 • Maven • Node.js • React Native • TypeScript • PostgreSQL • Expo
+- Análise e modelagem do sistema
+- Desenvolvimento e integração Full-Stack
+- Integração entre API (Back-End) e aplicação mobile
+- Organização da estrutura e lógica da aplicação
+
+🛠 Tecnologias utilizadas:
+Java 17 • Maven • Node.js • React Native • TypeScript • Expo
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Ariosi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+- 💼 LinkedIn: [Gustavo Ariosi](https://www.linkedin.com/in/gustavo-ariosi-a4957326b/)
+- 📧 Email: (GustavoTaquiwi@gmail.com)
