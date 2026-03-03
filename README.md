@@ -1,114 +1,70 @@
-# 👩🏻‍💻 Gustavo Ariosi
+# 👨🏻‍💻 Gustavo Ariosi  
 
-**`Desenvolvedor FullStack`**
+**Desenvolvedor FullStack**
 
-"Me chamo Gustavo Taquiwi Ariosi, tenho 20 anos e sou natural do Paraná. Sou formado em Análise e Desenvolvimento de Sistemas pela Univale Ivaiporã, onde desenvolvi uma base sólida em programação, lógica e desenvolvimento de software.
+Sou Gustavo Taquiwi Ariosi, 20 anos, natural do Paraná.  
+Formado em **Análise e Desenvolvimento de Sistemas** pela Univale Ivaiporã, com base sólida em programação, lógica e desenvolvimento de software.
 
-Atualmente, sigo aprimorando meus conhecimentos na área de tecnologia, buscando sempre evoluir profissionalmente".
+Atualmente sigo evoluindo na área de tecnologia, buscando crescimento profissional e novos desafios.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<p align="left">
+<img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="left">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=GustavoTaquiwiAriosi&show_icons=true&theme=tokyonight&count_private=true" />
+       src="https://stats-github-readme.vercel.app/api?username=GustavoTaquiwiAriosi&show_icons=true&theme=tokyonight&hide_border=true" />
+       
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTaquiwiAriosi&layout=compact&theme=tokyonight" />
+       src="https://stats-github-readme.vercel.app/api/top-langs/?username=GustavoTaquiwiAriosi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="left">
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=GustavoTaquiwiAriosi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<p align="left">
+  <a href="https://github.com/GustavoTaquiwiAriosi?tab=repositories">
+    <img height="150"
+         src="https://stats-github-readme.vercel.app/api/pin/?username=GustavoTaquiwiAriosi&repo=SEU_REPOSITORIO_AQUI&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/GustavoTaquiwiAriosi?tab=repositories">
+    <img height="150"
+         src="https://stats-github-readme.vercel.app/api/pin/?username=GustavoTaquiwiAriosi&repo=SEU_REPOSITORIO_AQUI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: (adicione aqui)
+- 📧 Email: (adicione aqui)
